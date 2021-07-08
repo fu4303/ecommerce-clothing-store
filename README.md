@@ -1,3 +1,27 @@
+Update 7/7/2021
+
+firebase config file
+
+const config = {
+	apiKey: 'AIzaSyAxgwx4K1a0PihFumbx166Pm8UdxnmPVPg',
+	authDomain: 'clothing-store-cae7f.firebaseapp.com',
+	databaseURL: 'https://clothing-store-cae7f.firebaseio.com',
+	projectId: 'clothing-store-cae7f',
+	storageBucket: 'clothing-store-cae7f.appspot.com',
+	messagingSenderId: '906669931017',
+	appId: '1:906669931017:web:db6f5fc278cc90673056d8',
+	measurementId: 'G-XT8DJ6G7DL',
+};
+
+
+
+
+-------
+
+
+
+
+
 # clothing-store
 
 This is an e-commerce clothing store website I built which is responsive. It has
